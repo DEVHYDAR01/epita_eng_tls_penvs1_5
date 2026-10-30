@@ -1,0 +1,26 @@
+[project]
+name = "epita_charbel_khoury_space"
+version = "0.1.1"
+description = "TP2 Engineering Tools - NASA APOD CLI"
+readme = "README.md"
+authors = [
+    { name = "Charbel Khoury" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+    "rich>=15.0.0",
+]
+
+[project.scripts]
+epita-charbel-khoury-cli = "epita_charbel_khoury_space.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
