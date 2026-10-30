@@ -11,7 +11,7 @@ TestPyPI Live Package URL: https://test.pypi.org/project/epita_charbel_khoury_sp
 * Group Command Output:
 
 ```
-TODO
+Group 5 - Space & Astronomy (NASA Open API)
 ```
 
 * Assigned Domain: `Group 5 - NASA APOD`
