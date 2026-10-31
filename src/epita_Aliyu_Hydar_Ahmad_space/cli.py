@@ -1,7 +1,7 @@
 from rich.console import Console
 from rich.panel import Panel
 from rich.table import Table
-from epita_charbel_khoury_space.client import fetch_live_data
+from epita_Aliyu_Hydar_Ahmad_space.client import fetch_live_data
 
 console = Console()
 

@@ -184,8 +184,8 @@ wheels = [
 ]
 
 [[package]]
-name = "epita-charbel-khoury-space"
-version = "0.1.1"
+name = "epita-aliyu-hydar-ahmad-space"
+version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "python-dotenv" },
