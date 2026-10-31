@@ -19,7 +19,13 @@
 * **Project directory / package:** `epita_Aliyu_Hydar_Ahmad_space`
 * **Console entry point:** `epita-aliyu-ahmad-cli`
 
+<<<<<<< HEAD
 The package is published to TestPyPI as `epita_Aliyu_Hydar_Ahmad_space`.
+=======
+```
+Group 5 - Space & Astronomy (NASA Open API)
+```
+>>>>>>> a9a4e713bc7fcf097a428704d0c8f6456f222670
 
 ---
 
